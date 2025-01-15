@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/ANN%20with%20MLFLOW/ANN%20with%20MLFLOW/mlruns/547272213333641283/ba518e06f0104e5b8948901683be4ac5/artifacts
+end_time: 1736919325881
+entry_point_name: ''
+experiment_id: '547272213333641283'
+lifecycle_stage: active
+run_id: ba518e06f0104e5b8948901683be4ac5
+run_name: angry-newt-241
+run_uuid: ba518e06f0104e5b8948901683be4ac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736919268079
+status: 3
+tags: []
+user_id: ASUS

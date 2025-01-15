@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/ANN%20with%20MLFLOW/ANN%20with%20MLFLOW/mlruns/547272213333641283/9765c1b8d01e4c32beae3e789992bae9/artifacts
+end_time: 1736919298779
+entry_point_name: ''
+experiment_id: '547272213333641283'
+lifecycle_stage: active
+run_id: 9765c1b8d01e4c32beae3e789992bae9
+run_name: handsome-crab-167
+run_uuid: 9765c1b8d01e4c32beae3e789992bae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736919289219
+status: 3
+tags: []
+user_id: ASUS
