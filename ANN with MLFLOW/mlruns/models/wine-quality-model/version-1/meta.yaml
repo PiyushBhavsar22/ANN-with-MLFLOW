@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736920293305
+current_stage: None
+description: null
+last_updated_timestamp: 1736920293305
+name: wine-quality-model
+run_id: ba518e06f0104e5b8948901683be4ac5
+run_link: null
+source: file:///e:/ANN%20with%20MLFLOW/ANN%20with%20MLFLOW/mlruns/547272213333641283/ba518e06f0104e5b8948901683be4ac5/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///e:/ANN%20with%20MLFLOW/ANN%20with%20MLFLOW/mlruns/547272213333641283/ba518e06f0104e5b8948901683be4ac5/artifacts/best_model
+user_id: null
+version: 1
