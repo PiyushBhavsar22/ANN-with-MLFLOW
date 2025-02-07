@@ -63,11 +63,7 @@ The project relies on the following libraries:
 - TensorFlow/Keras
 - MLFlow
 - Pandas
-- NumPy
-
-Refer to `requirements.txt` for a complete list.
-
----
+- Numpy
 
 ## Models
 - **Final-Model**: Finalized model with versioning.
